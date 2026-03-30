@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+
+theme: jekyll-theme-cayman
+
 <html>
 <head>
   <title>Zach's Website</title>
